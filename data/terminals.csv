@@ -1,0 +1,88 @@
+iata,terminal,purpose,flights,source_url,checked_at
+AER,Пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/aer,2026-09-28
+AER,VIP-терминал,отдельное здание слева от основного терминала,all,https://flight-delayed.ru/airports/aer,2026-09-28
+ARH,Павильон №3,вылет внутренних рейсов,domestic,https://flight-delayed.ru/airports/arh,2026-09-29
+ARH,Павильон №1,международные рейсы,international,https://flight-delayed.ru/airports/arh,2026-09-29
+ARH,Павильон №2,центральный вход в аэровокзал,all,https://flight-delayed.ru/airports/arh,2026-09-29
+ASF,Сектор «А»,внутренние рейсы,domestic,https://flight-delayed.ru/airports/asf,2026-09-29
+ASF,Сектор «В»,международные рейсы,international,https://flight-delayed.ru/airports/asf,2026-09-29
+BAX,Терминал А — внутренние линии,все внутренние рейсы на вылет и прилёт,domestic,https://flight-delayed.ru/airports/bax,2026-09-29
+BQS,Аэровокзал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/bqs,2026-09-29
+CEK,Терминал внутренних воздушных линий,внутренние рейсы,domestic,https://flight-delayed.ru/airports/cek,2026-09-29
+CEK,Терминал международных воздушных линий,международные рейсы,international,https://flight-delayed.ru/airports/cek,2026-09-29
+DME,Терминал 1,внутренние авиалинии,domestic,https://flight-delayed.ru/airports/dme,2026-09-29
+DME,Терминал 2,международные авиалинии,international,https://flight-delayed.ru/airports/dme,2026-09-29
+GDX,Аэровокзальный комплекс,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/gdx,2026-09-29
+GOJ,Пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/goj,2026-09-29
+GRV,Аэровокзал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/grv,2026-09-29
+GSV,Пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/gsv,2026-09-29
+HMA,Аэровокзальный комплекс,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/hma,2026-09-29
+HTA,Терминал Б,внутренние рейсы,domestic,https://flight-delayed.ru/airports/hta,2026-09-29
+HTA,Терминал А,международные рейсы,international,https://flight-delayed.ru/airports/hta,2026-09-29
+IJK,Пассажирский терминал,внутренние рейсы,domestic,https://flight-delayed.ru/airports/ijk,2026-09-29
+IKT,Терминал 1,международные рейсы,international,https://flight-delayed.ru/airports/ikt,2026-09-29
+IKT,Терминал 2,"внутренние рейсы, вылет",domestic,https://flight-delayed.ru/airports/ikt,2026-09-29
+IKT,Терминал 3,"внутренние рейсы, прилёт",domestic,https://flight-delayed.ru/airports/ikt,2026-09-29
+KGD,Сектор А,внутренние рейсы,domestic,https://flight-delayed.ru/airports/kgd,2026-09-29
+KGD,Сектор С,международные рейсы,international,https://flight-delayed.ru/airports/kgd,2026-09-29
+KHV,Терминал А,внутренние рейсы,domestic,https://flight-delayed.ru/airports/khv,2026-09-29
+KHV,Терминал В,международные рейсы,international,https://flight-delayed.ru/airports/khv,2026-09-29
+KJA,Пассажирский терминал (Терминал 1),внутренние и международные рейсы,all,https://flight-delayed.ru/airports/kja,2026-09-29
+KJA,Деловой терминал (Терминал 2),"зал повышенной комфортности на вылет и прилёт, деловой центр, LEGENDA Аэро Отель",domestic,https://flight-delayed.ru/airports/kja,2026-09-29
+KRR,Терминал 1,внутренние рейсы,domestic,https://flight-delayed.ru/airports/krr,2026-09-29
+KRR,Терминал 2,международные рейсы,international,https://flight-delayed.ru/airports/krr,2026-09-29
+KUF,Пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/kuf,2026-09-28
+KUF,VIP-терминал,отдельное здание с собственной регистрацией и досмотром,all,https://flight-delayed.ru/airports/kuf,2026-09-28
+KZN,Терминал 1А,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/kzn,2026-09-29
+KZN,Терминал 1,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/kzn,2026-09-29
+KZN,Терминал 2 (бизнес-терминал),VIP-зал и зал повышенной комфортности,domestic,https://flight-delayed.ru/airports/kzn,2026-09-29
+LED,Центральный пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/led,2026-09-29
+MCX,Терминал А,,all,https://flight-delayed.ru/airports/mcx,2026-09-29
+MCX,Терминал Б,международные рейсы,international,https://flight-delayed.ru/airports/mcx,2026-09-29
+MRV,Терминал вылета внутренних линий,вылет внутренних рейсов,domestic,https://flight-delayed.ru/airports/mrv,2026-09-29
+MRV,Терминал вылета международных линий,вылет международных рейсов,international,https://flight-delayed.ru/airports/mrv,2026-09-29
+MRV,Терминал прилёта внутренних линий,прилёт внутренних рейсов,domestic,https://flight-delayed.ru/airports/mrv,2026-09-29
+MRV,Терминал прилёта международных линий,прилёт международных рейсов,international,https://flight-delayed.ru/airports/mrv,2026-09-29
+NBC,Терминал B,внутренние рейсы,domestic,https://flight-delayed.ru/airports/nbc,2026-09-29
+NBC,Терминал A,международные рейсы,international,https://flight-delayed.ru/airports/nbc,2026-09-29
+NJC,Терминал 1,,all,https://flight-delayed.ru/airports/njc,2026-09-29
+NJC,Терминал 2,,all,https://flight-delayed.ru/airports/njc,2026-09-29
+NNM,Терминал вылета,"внутренние рейсы, в том числе местные воздушные линии НАО",domestic,https://flight-delayed.ru/airports/nnm,2026-09-29
+NNM,Павильон выдачи багажа,прилёт,domestic,https://flight-delayed.ru/airports/nnm,2026-09-29
+NUX,Аэровокзал,единственный пассажирский терминал; работает с 5:45 до 17:30 по местному времени,all,https://flight-delayed.ru/airports/nux,2026-09-29
+OMS,Терминал B,"вылет всех рейсов, прилёт внутренних рейсов",all,https://flight-delayed.ru/airports/oms,2026-09-29
+OMS,Терминал A,прилёт международных рейсов,international,https://flight-delayed.ru/airports/oms,2026-09-29
+OVB,Сектор С,внутренние рейсы,domestic,https://flight-delayed.ru/airports/ovb,2026-09-29
+OVB,Сектор Б,международные рейсы,international,https://flight-delayed.ru/airports/ovb,2026-09-29
+PEE,Пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/pee,2026-09-29
+PKC,Пассажирский терминал,С 31 марта 2025 года все регулярные пассажирские рейсы обслуживаются в новом терминале,all,https://flight-delayed.ru/airports/pkc,2026-09-29
+REN,Аэровокзал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/ren,2026-09-29
+RGK,Основной аэровокзал (терминал вылета),вылет внутренних рейсов,domestic,https://flight-delayed.ru/airports/rgk,2026-09-29
+RGK,Терминал прилёта,прилёт внутренних рейсов,domestic,https://flight-delayed.ru/airports/rgk,2026-09-29
+RGK,Международный терминал,международные рейсы,international,https://flight-delayed.ru/airports/rgk,2026-09-29
+SGC,Аэровокзал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/sgc,2026-09-29
+SLY,Аэровокзал,регистрация на внутренние рейсы — в секторах 1 (первый этаж) и 2 (второй этаж),all,https://flight-delayed.ru/airports/sly,2026-09-29
+SVO,Терминал B,внутренние рейсы,domestic,https://flight-delayed.ru/airports/svo,2026-09-28
+SVO,Терминал C,международные рейсы,international,https://flight-delayed.ru/airports/svo,2026-09-28
+SVO,Терминал D,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/svo,2026-09-28
+SVO,Терминал E,международные рейсы,international,https://flight-delayed.ru/airports/svo,2026-09-28
+SVO,Терминал F,международные рейсы,international,https://flight-delayed.ru/airports/svo,2026-09-28
+SVX,Терминал A,внутренние рейсы,domestic,https://flight-delayed.ru/airports/svx,2026-09-29
+SVX,Терминал B,международные рейсы,international,https://flight-delayed.ru/airports/svx,2026-09-29
+SVX,Терминал деловой авиации,VIP-обслуживание,all,https://flight-delayed.ru/airports/svx,2026-09-29
+TJM,Пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/tjm,2026-09-29
+TOF,Терминал А,внутренние рейсы,domestic,https://flight-delayed.ru/airports/tof,2026-09-29
+TOF,Терминал Б,международные рейсы,international,https://flight-delayed.ru/airports/tof,2026-09-29
+UFA,Терминал 1,внутренние рейсы,domestic,https://flight-delayed.ru/airports/ufa,2026-09-29
+UFA,Терминал 2,международные рейсы,international,https://flight-delayed.ru/airports/ufa,2026-09-29
+UUD,Терминал внутренних воздушных линий,внутренние рейсы,domestic,https://flight-delayed.ru/airports/uud,2026-09-29
+UUD,Зал международных авиалиний,международные рейсы,international,https://flight-delayed.ru/airports/uud,2026-09-29
+UUS,Аэровокзальный комплекс,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/uus,2026-09-29
+VKO,Терминал А,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/vko,2026-09-29
+VKO,Внуково-3,,all,https://flight-delayed.ru/airports/vko,2026-09-29
+VOG,Терминал С2,внутренние рейсы,domestic,https://flight-delayed.ru/airports/vog,2026-09-29
+VOG,Терминал С,международные рейсы,international,https://flight-delayed.ru/airports/vog,2026-09-29
+VVO,Терминал A,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/vvo,2026-09-29
+YKS,Терминал российских авиалиний,внутрироссийские и местные рейсы,domestic,https://flight-delayed.ru/airports/yks,2026-09-29
+YKS,Международный терминал,международные рейсы,international,https://flight-delayed.ru/airports/yks,2026-09-29
+ZIA,Пассажирский терминал,внутренние и международные рейсы,all,https://flight-delayed.ru/airports/zia,2026-09-29

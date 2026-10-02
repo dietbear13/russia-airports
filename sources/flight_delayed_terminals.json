@@ -1,0 +1,785 @@
+{
+ "AER": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   },
+   {
+    "label": "VIP-терминал",
+    "purpose": "отдельное здание слева от основного терминала",
+    "flights": "all"
+   }
+  ],
+  "website": "https://aer.aero/",
+  "address": "354340, Краснодарский край, г. Сочи, Территория Аэропорт",
+  "checked_at": "2026-09-28"
+ },
+ "ARH": {
+  "terminals": [
+   {
+    "label": "Павильон №3",
+    "purpose": "вылет внутренних рейсов",
+    "flights": "domestic"
+   },
+   {
+    "label": "Павильон №1",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   },
+   {
+    "label": "Павильон №2",
+    "purpose": "центральный вход в аэровокзал",
+    "flights": "all"
+   }
+  ],
+  "website": "https://arh.aero",
+  "address": "163053, г. Архангельск, аэропорт Талаги, д. 10",
+  "checked_at": "2026-09-29"
+ },
+ "ASF": {
+  "terminals": [
+   {
+    "label": "Сектор «А»",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Сектор «В»",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://airportastrakhan.ru/",
+  "address": "414018, Астраханская обл., г. Астрахань, Аэропортовский проезд, 1",
+  "checked_at": "2026-09-29"
+ },
+ "BAX": {
+  "terminals": [
+   {
+    "label": "Терминал А — внутренние линии",
+    "purpose": "все внутренние рейсы на вылет и прилёт",
+    "flights": "domestic"
+   }
+  ],
+  "website": "https://airaltay.ru/",
+  "address": "Алтайский край, 656057, г. Барнаул, Павловский тракт, 226",
+  "checked_at": "2026-09-29"
+ },
+ "BQS": {
+  "terminals": [
+   {
+    "label": "Аэровокзал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-bqs.ru/",
+  "address": "675019, Амурская обл., г. Благовещенск, пос. Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "CEK": {
+  "terminals": [
+   {
+    "label": "Терминал внутренних воздушных линий",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал международных воздушных линий",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://cekport.ru/",
+  "address": "454133, г. Челябинск, Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "DME": {
+  "terminals": [
+   {
+    "label": "Терминал 1",
+    "purpose": "внутренние авиалинии",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал 2",
+    "purpose": "международные авиалинии",
+    "flights": "international"
+   }
+  ],
+  "website": "https://www.dme.ru",
+  "address": "142015, Московская обл., г. Домодедово, территория «Аэропорт «Домодедово»",
+  "checked_at": "2026-09-29"
+ },
+ "GDX": {
+  "terminals": [
+   {
+    "label": "Аэровокзальный комплекс",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://airport-magadan.ru",
+  "address": "685918, Магаданская обл., г. Магадан, п. Сокол, Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "GOJ": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-goj.ru",
+  "address": "г. Нижний Новгород, Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "GRV": {
+  "terminals": [
+   {
+    "label": "Аэровокзал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://airport-grozny.ru",
+  "address": "364026, Чеченская Республика, г. Грозный, ул. А. А. Айдамирова, 320",
+  "checked_at": "2026-09-29"
+ },
+ "GSV": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-gsv.ru",
+  "address": "Саратовская обл., г. Саратов, тер. Аэропорт Гагарин, зд. 1В",
+  "checked_at": "2026-09-29"
+ },
+ "HMA": {
+  "terminals": [
+   {
+    "label": "Аэровокзальный комплекс",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ugraavia.ru",
+  "address": "628012, Ханты-Мансийский автономный округ — Югра, г. Ханты-Мансийск, территория Аэропорта",
+  "checked_at": "2026-09-29"
+ },
+ "HTA": {
+  "terminals": [
+   {
+    "label": "Терминал Б",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал А",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://www.aerochita.ru/",
+  "address": "672018, Забайкальский край, г. Чита, п. Аэропорт, ул. Звездная, д. 17",
+  "checked_at": "2026-09-29"
+ },
+ "IJK": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   }
+  ],
+  "website": "https://izhavia.su",
+  "address": "427000, Удмуртская Республика, Завьяловский район, территория Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "IKT": {
+  "terminals": [
+   {
+    "label": "Терминал 1",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   },
+   {
+    "label": "Терминал 2",
+    "purpose": "внутренние рейсы, вылет",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал 3",
+    "purpose": "внутренние рейсы, прилёт",
+    "flights": "domestic"
+   }
+  ],
+  "website": "https://iktport.ru",
+  "address": "664009, г. Иркутск, ул. Ширямова, 13",
+  "checked_at": "2026-09-29"
+ },
+ "KGD": {
+  "terminals": [
+   {
+    "label": "Сектор А",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Сектор С",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://kgdavia.ru",
+  "address": "Калининградская область, Гурьевский район, посёлок Храброво",
+  "checked_at": "2026-09-29"
+ },
+ "KHV": {
+  "terminals": [
+   {
+    "label": "Терминал А",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал В",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://khv.aero",
+  "address": "680031, г. Хабаровск, Матвеевское шоссе, 32",
+  "checked_at": "2026-09-29"
+ },
+ "KJA": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал (Терминал 1)",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   },
+   {
+    "label": "Деловой терминал (Терминал 2)",
+    "purpose": "зал повышенной комфортности на вылет и прилёт, деловой центр, LEGENDA Аэро Отель",
+    "flights": "domestic"
+   }
+  ],
+  "website": "https://www.kja.aero/",
+  "address": "663013, Красноярский край, Емельяновский р-н, пгт Емельяново, тер. Аэропорт Красноярск, стр. 2",
+  "checked_at": "2026-09-29"
+ },
+ "KRR": {
+  "terminals": [
+   {
+    "label": "Терминал 1",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал 2",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://krr.aero",
+  "address": "350912, Краснодарский край, г. Краснодар, ул. им. Евдокии Бершанской, 355",
+  "checked_at": "2026-09-29"
+ },
+ "KUF": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   },
+   {
+    "label": "VIP-терминал",
+    "purpose": "отдельное здание с собственной регистрацией и досмотром",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-kuf.ru/",
+  "address": "Самарская обл., 443901, г. Самара, аэропорт «Самара»",
+  "checked_at": "2026-09-28"
+ },
+ "KZN": {
+  "terminals": [
+   {
+    "label": "Терминал 1А",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   },
+   {
+    "label": "Терминал 1",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   },
+   {
+    "label": "Терминал 2 (бизнес-терминал)",
+    "purpose": "VIP-зал и зал повышенной комфортности",
+    "flights": "domestic"
+   }
+  ],
+  "website": "https://kazan.aero",
+  "address": "420017, Республика Татарстан, Лаишевский район, Столбищенское сельское поселение, тер. Аэропорт, зд. 549",
+  "checked_at": "2026-09-29"
+ },
+ "LED": {
+  "terminals": [
+   {
+    "label": "Центральный пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://pulkovoairport.ru",
+  "address": "196140, г. Санкт-Петербург, Пулковское шоссе, д. 41, лит. ЗИ",
+  "checked_at": "2026-09-29"
+ },
+ "MCX": {
+  "terminals": [
+   {
+    "label": "Терминал А",
+    "purpose": "",
+    "flights": "all"
+   },
+   {
+    "label": "Терминал Б",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://mcx.aero/",
+  "address": "368016, Республика Дагестан, г. Махачкала, Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "MMK": {
+  "terminals": [],
+  "website": "https://mmkavia.ru/",
+  "address": "184355, Мурманская обл., Кольский р-н, пгт Мурмаши, аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "MRV": {
+  "terminals": [
+   {
+    "label": "Терминал вылета внутренних линий",
+    "purpose": "вылет внутренних рейсов",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал вылета международных линий",
+    "purpose": "вылет международных рейсов",
+    "flights": "international"
+   },
+   {
+    "label": "Терминал прилёта внутренних линий",
+    "purpose": "прилёт внутренних рейсов",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал прилёта международных линий",
+    "purpose": "прилёт международных рейсов",
+    "flights": "international"
+   }
+  ],
+  "website": "https://mvairport.ru/",
+  "address": "357205, Ставропольский край, г. Минеральные Воды, Территория Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "NBC": {
+  "terminals": [
+   {
+    "label": "Терминал B",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал A",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://nbc.aero/",
+  "address": "423878, Республика Татарстан, Тукаевский р-н, с. п. Биклянское, тер. аэропорта Бегишево, д. 2, зд. 14",
+  "checked_at": "2026-09-29"
+ },
+ "NJC": {
+  "terminals": [
+   {
+    "label": "Терминал 1",
+    "purpose": "",
+    "flights": "all"
+   },
+   {
+    "label": "Терминал 2",
+    "purpose": "",
+    "flights": "all"
+   }
+  ],
+  "website": "https://nv-aero.ru",
+  "address": "Ханты-Мансийский автономный округ — Югра, г. Нижневартовск, ул. Авиаторов, 2",
+  "checked_at": "2026-09-29"
+ },
+ "NNM": {
+  "terminals": [
+   {
+    "label": "Терминал вылета",
+    "purpose": "внутренние рейсы, в том числе местные воздушные линии НАО",
+    "flights": "domestic"
+   },
+   {
+    "label": "Павильон выдачи багажа",
+    "purpose": "прилёт",
+    "flights": "domestic"
+   }
+  ],
+  "website": "https://avianao.ru",
+  "address": "166001, Ненецкий автономный округ, г. Нарьян-Мар, пер. Аэропортовский, зд. 1А",
+  "checked_at": "2026-09-29"
+ },
+ "NUX": {
+  "terminals": [
+   {
+    "label": "Аэровокзал",
+    "purpose": "единственный пассажирский терминал; работает с 5:45 до 17:30 по местному времени",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-nux.ru",
+  "address": "Ямало-Ненецкий автономный округ, г. Новый Уренгой, мкр. Авиатор, 8",
+  "checked_at": "2026-09-29"
+ },
+ "OMS": {
+  "terminals": [
+   {
+    "label": "Терминал B",
+    "purpose": "вылет всех рейсов, прилёт внутренних рейсов",
+    "flights": "all"
+   },
+   {
+    "label": "Терминал A",
+    "purpose": "прилёт международных рейсов",
+    "flights": "international"
+   }
+  ],
+  "website": "https://www.aeroomsk.ru",
+  "address": "г. Омск, ул. Транссибирская, 28 (здание аэровокзала); юридический адрес ОАО «Омский аэропорт» — 644103, г. Омск, ул. Транссибирская, 18",
+  "checked_at": "2026-09-29"
+ },
+ "OVB": {
+  "terminals": [
+   {
+    "label": "Сектор С",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Сектор Б",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://tolmachevo.ru",
+  "address": "633104, Новосибирская область, г. Обь, проспект Мозжерина, д. 101",
+  "checked_at": "2026-09-29"
+ },
+ "PEE": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://aviaperm.ru",
+  "address": "614500, Пермский край, Пермский район, тер. Шоссе Космонавтов, д. 455, корпус 12",
+  "checked_at": "2026-09-29"
+ },
+ "PKC": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "С 31 марта 2025 года все регулярные пассажирские рейсы обслуживаются в новом терминале",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-pkc.ru/",
+  "address": "Камчатский край, г. Елизово, ул. Звёздная, 14",
+  "checked_at": "2026-09-29"
+ },
+ "REN": {
+  "terminals": [
+   {
+    "label": "Аэровокзал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-ren.ru/",
+  "address": "Оренбургская обл., Оренбургский район, Нежинский сельсовет, территория Аэропорт, здание 1",
+  "checked_at": "2026-09-29"
+ },
+ "RGK": {
+  "terminals": [
+   {
+    "label": "Основной аэровокзал (терминал вылета)",
+    "purpose": "вылет внутренних рейсов",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал прилёта",
+    "purpose": "прилёт внутренних рейсов",
+    "flights": "domestic"
+   },
+   {
+    "label": "Международный терминал",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://rgk-aero.ru",
+  "address": "Республика Алтай, Майминский район, с. Майма, аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "SCW": {
+  "terminals": [],
+  "website": "https://komiaviatrans.ru/airport/index.php?id=1",
+  "address": "167981, Республика Коми, г. Сыктывкар, ул. Советская, 67",
+  "checked_at": "2026-09-29"
+ },
+ "SGC": {
+  "terminals": [
+   {
+    "label": "Аэровокзал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://www.airport-surgut.ru",
+  "address": "Ханты-Мансийский автономный округ — Югра, г. Сургут, ул. Аэрофлотская, д. 49/1",
+  "checked_at": "2026-09-29"
+ },
+ "SLY": {
+  "terminals": [
+   {
+    "label": "Аэровокзал",
+    "purpose": "регистрация на внутренние рейсы — в секторах 1 (первый этаж) и 2 (второй этаж)",
+    "flights": "all"
+   }
+  ],
+  "website": "https://slyport.ru",
+  "address": "Ямало-Ненецкий автономный округ, г. Салехард, ул. Авиационная, 30",
+  "checked_at": "2026-09-29"
+ },
+ "SVO": {
+  "terminals": [
+   {
+    "label": "Терминал B",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал C",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   },
+   {
+    "label": "Терминал D",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   },
+   {
+    "label": "Терминал E",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   },
+   {
+    "label": "Терминал F",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://www.svo.aero",
+  "address": "Московская обл., г. Химки, аэропорт Шереметьево, 141400",
+  "checked_at": "2026-09-28"
+ },
+ "SVX": {
+  "terminals": [
+   {
+    "label": "Терминал A",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал B",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   },
+   {
+    "label": "Терминал деловой авиации",
+    "purpose": "VIP-обслуживание",
+    "flights": "all"
+   }
+  ],
+  "website": "https://ar-svx.ru/",
+  "address": "Свердловская обл., г. Екатеринбург, пл. Бахчиванджи, 1",
+  "checked_at": "2026-09-29"
+ },
+ "TJM": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://tjmport.ru",
+  "address": "625017, г. Тюмень, ул. Сергея Ильюшина, д. 10 (здание аэровокзала); юридический и почтовый адрес АО «Аэропорт Рощино» — ул. Сергея Ильюшина, д. 23",
+  "checked_at": "2026-09-29"
+ },
+ "TOF": {
+  "terminals": [
+   {
+    "label": "Терминал А",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал Б",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://tomskairport.ru",
+  "address": "Томская область, Томский район, п. Аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "UFA": {
+  "terminals": [
+   {
+    "label": "Терминал 1",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал 2",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://airportufa.ru",
+  "address": "450056, Республика Башкортостан, Уфимский район, Булгаковский сельсовет, с. Булгаково, мкр. Аэропорт, д. 131",
+  "checked_at": "2026-09-29"
+ },
+ "UUD": {
+  "terminals": [
+   {
+    "label": "Терминал внутренних воздушных линий",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Зал международных авиалиний",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://airportbaikal.ru/",
+  "address": "Республика Бурятия, г. Улан-Удэ, Аэропорт, 10",
+  "checked_at": "2026-09-29"
+ },
+ "UUS": {
+  "terminals": [
+   {
+    "label": "Аэровокзальный комплекс",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://uusaero.ru",
+  "address": "693014, Сахалинская область, г. Южно-Сахалинск, ул. И. П. Куропатко, 25",
+  "checked_at": "2026-09-29"
+ },
+ "VKO": {
+  "terminals": [
+   {
+    "label": "Терминал А",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   },
+   {
+    "label": "Внуково-3",
+    "purpose": "",
+    "flights": "all"
+   }
+  ],
+  "website": "https://www.vnukovo.ru",
+  "address": "119027, Москва, пос. Внуково, ул. 1-я Рейсовая, д. 12 (почтовый адрес)",
+  "checked_at": "2026-09-29"
+ },
+ "VOG": {
+  "terminals": [
+   {
+    "label": "Терминал С2",
+    "purpose": "внутренние рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Терминал С",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://airportvolgograd.ru",
+  "address": "400036, г. Волгоград, аэропорт",
+  "checked_at": "2026-09-29"
+ },
+ "VVO": {
+  "terminals": [
+   {
+    "label": "Терминал A",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://aerovlad.ru",
+  "address": "Приморский край, г. Артём, ул. Владимира Сайбеля, д. 41 (почтовый адрес)",
+  "checked_at": "2026-09-29"
+ },
+ "YKS": {
+  "terminals": [
+   {
+    "label": "Терминал российских авиалиний",
+    "purpose": "внутрироссийские и местные рейсы",
+    "flights": "domestic"
+   },
+   {
+    "label": "Международный терминал",
+    "purpose": "международные рейсы",
+    "flights": "international"
+   }
+  ],
+  "website": "https://yks.aero",
+  "address": "677014, Республика Саха (Якутия), г. Якутск, площадь Валерия Кузьмина, д. 10",
+  "checked_at": "2026-09-29"
+ },
+ "ZIA": {
+  "terminals": [
+   {
+    "label": "Пассажирский терминал",
+    "purpose": "внутренние и международные рейсы",
+    "flights": "all"
+   }
+  ],
+  "website": "https://zia.aero/",
+  "address": "Московская обл., г. Жуковский, ул. Наркомвод, 3",
+  "checked_at": "2026-09-29"
+ }
+}
