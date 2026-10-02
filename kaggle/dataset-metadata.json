@@ -1,13 +1,13 @@
 {
   "title": "Russia Airports: IATA, ICAO, Terminals, Coords",
-  "subtitle": "247 Russian airports: codes, coordinates, terminals, international status",
+  "subtitle": "244 Russian airports: codes, coordinates, terminals, international status",
   "id": "mikhailbulgakov/russia-airports",
   "licenses": [{"name": "CC-BY-4.0"}],
   "keywords": ["aviation", "russia", "geospatial analysis", "transportation"],
   "resources": [
-    {"path": "airports.csv", "description": "247 civil airports of Russia: IATA, ICAO, names (ru/en), city, region, coordinates, elevation, time zone, international status. Source and attribution: https://flight-delayed.ru/"},
+    {"path": "airports.csv", "description": "244 civil airports of Russia: IATA, ICAO, names (ru/en), city, region, coordinates, elevation, time zone, international status. Source and attribution: https://flight-delayed.ru/"},
     {"path": "terminals.csv", "description": "Passenger terminals with purpose, flight type and source"},
-    {"path": "border_checkpoints.csv", "description": "All 93 air border checkpoints of Russia from the Rosgranstroy registry"},
+    {"path": "border_checkpoints.csv", "description": "87 air border checkpoints of Russia from the Rosgranstroy registry"},
     {"path": "airports.json", "description": "airports.csv in JSON"}
   ]
 }

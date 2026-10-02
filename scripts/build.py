@@ -25,10 +25,10 @@ SITE = "https://flight-delayed.ru"
 
 # Военные аэродромы с IATA/ICAO-кодом, но без гражданских пассажирских рейсов.
 MILITARY = {"UUMU", "UUEM", "UUMB", "ULLK", "UHKG", "UODS", "UODN"}
-MILITARY_IATA = {"CKL", "KLD", "NOI", "TYA"}
+MILITARY_IATA = {"CKL", "KLD", "NOI", "TYA", "LNX", "UKS", "EIK"}
 
-# Крым: в OurAirports числится под UA, на сайте и в справочнике — субъекты РФ.
-CRIMEA = {"UKFF": ("Республика Крым", "RU-CR"), "UKFB": ("Севастополь", "RU-SEV")}
+# Крым: в OurAirports числится под UA, на сайте и в справочнике — субъект РФ.
+CRIMEA = {"UKFF": ("Республика Крым", "RU-CR")}
 
 REGION_RU = {
     "RU-AD": "Республика Адыгея", "RU-AL": "Республика Алтай", "RU-ALT": "Алтайский край",

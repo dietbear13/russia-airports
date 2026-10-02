@@ -38,7 +38,6 @@ DYR,UHMA,Угольный,Ugolny Yuri Ryktheu Airport,Анадырь,Anadyr,Чу
 EDN,UHWE,Единка,Yedinka Airport,Единка,Yedinka,Приморский край,RU-PRI,47.178201,138.657357,30,Asia/Vladivostok,small,false,false,,,,,,330386,
 EGO,UUOB,Белгород,Belgorod International Airport,Белгород,Belgorod,Белгородская область,RU-BEL,50.643799,36.590099,224,Europe/Moscow,medium,false,true,Белгород,true,,http://www.belgorodavia.ru,Q762179,26398,https://flight-delayed.ru/airports/ego
 EIE,UNII,Енисейск,Yeniseysk Airport,Енисейск,Yeniseysk,Красноярский край,RU-KYA,58.474201,92.112503,77,Asia/Krasnoyarsk,medium,true,false,,,,https://ak-krasavia.ru/about/filials/eniseiskii/,Q2308437,30995,
-EIK,URKE,Ейск,Yeysk Airport,Ейск,Yeysk,Краснодарский край,RU-KDA,46.68,38.21,18,Europe/Moscow,medium,false,false,,,,,Q955079,45191,
 EKS,UHSK,Шахтерск,Shakhtyorsk Airport,Шахтёрск,Shakhtyorsk,Сахалинская область,RU-SAK,49.1903,142.082993,15,Asia/Sakhalin,small,true,false,,,,http://airport-shakhtersk.ru/,Q16719675,35125,
 ERG,UIKE,Ербогачён,Yerbogachen Airport,Ербогачён,Erbogachen,Иркутская область,RU-IRK,61.275002,108.029999,122,Asia/Irkutsk,small,false,false,,,,,Q4176155,42926,
 ESL,URWI,Элиста,Elista Airport,Элиста,Elista,Республика Калмыкия,RU-KL,46.373901,44.330898,153,Europe/Moscow,medium,true,true,Элиста,true,,http://aero-elista.narod.ru/,Q2276543,6521,https://flight-delayed.ru/airports/esl
@@ -95,7 +94,6 @@ KYZ,UNKY,Кызыл,Kyzyl Airport,Кызыл,Kyzyl,Республика Тыва
 KZN,UWKD,Казань,Kazan International Airport,Казань,Kazan,Республика Татарстан,RU-TA,55.606201,49.278702,125,Europe/Moscow,large,true,true,Казань,true,3,https://kazan.aero,Q47151,26404,https://flight-delayed.ru/airports/kzn
 LDG,ULAL,Лешуконское,Leshukonskoye Airport,Лешуконское,Leshukonskoye,Архангельская область,RU-ARK,64.896004,45.723,67,Europe/Moscow,small,true,false,,,,,Q1748483,44768,
 LED,ULLI,Пулково,Pulkovo Airport,Санкт-Петербург,St. Petersburg,Санкт-Петербург,RU-SPE,59.800301,30.262501,24,Europe/Moscow,large,true,true,Санкт-Петербург (Пулково),true,1,https://pulkovoairport.ru,Q690122,6489,https://flight-delayed.ru/airports/led
-LNX,,Смоленск-Северный,Smolensk North Airport,Смоленск,Smolensk,Смоленская область,RU-SMO,54.824,32.025,250,Europe/Moscow,medium,false,false,,,,,Q2602551,44992,
 LPK,UUOL,Липецк,Lipetsk Airport,Липецк,Lipetsk,Липецкая область,RU-LIP,52.702801,39.5378,178,Europe/Moscow,medium,false,true,Липецк,true,,http://www.lipetsk-airport.ru,Q1431886,31846,https://flight-delayed.ru/airports/lpk
 MCX,URML,Уйташ,Makhachkala Uytash International Airport,Махачкала,Makhachkala,Республика Дагестан,RU-DA,42.816799,47.652302,4,Europe/Moscow,large,true,true,Махачкала (Уйташ),true,2,https://mcx.aero/,Q2452159,6513,https://flight-delayed.ru/airports/mcx
 MJY,UNIM,Мотыгино,Motygino Airport,Мотыгино,Motygino,Красноярский край,RU-KYA,58.180921,94.745272,164,Asia/Krasnoyarsk,small,true,false,,,,,Q62129199,323478,
@@ -181,7 +179,6 @@ UFA,UWUU,Уфа,Ufa International Airport,Уфа,Ufa,Республика Баш
 UHS,UHSA,Александровск-Сахалинский,Aleksandrovsk-Sakhalinskiy Airport,Александровск-Сахалинский,Aleksandrovsk-Sakhalinskiy,Сахалинская область,RU-SAK,50.877144,142.17561,4,Asia/Sakhalin,small,false,false,,,,,,352227,
 UIK,UIBS,Усть-Илимск,Ust-Ilimsk Airport,Усть-Илимск,Ust-Ilimsk,Иркутская область,RU-IRK,58.135409,102.556066,408,Asia/Irkutsk,small,false,false,,,,http://ust-ilimsk.ru/index.php?option=com_content&view=category&id=253&Itemid=380,Q745654,32523,
 UKG,UEBT,Усть-Куйга,Ust-Kuyga Airport,Усть-Куйга,Ust-Kuyga,Республика Саха (Якутия),RU-SA,70.011002,135.645004,100,Asia/Vladivostok,small,true,false,,,,,Q16897532,44859,
-UKS,UKFB,Севастополь,Sevastopol International Airport / Belbek Air Base,Севастополь,Sevastopol,Севастополь,RU-SEV,44.691822,33.57462,105,Europe/Simferopol,medium,false,false,,,,,Q2985601,44293,
 UKX,UITT,Усть-Кут,Ust-Kut Airport,Усть-Кут,Ust-Kut,Иркутская область,RU-IRK,56.856701,105.730003,667,Asia/Irkutsk,medium,true,false,,,,http://www.uskairport.ru,Q4478462,42930,
 ULK,UERL,Ленск,Lensk Airport,Ленск,Lensk,Республика Саха (Якутия),RU-SA,60.723594,114.825319,244,Asia/Yakutsk,medium,true,false,,,,http://www.mapalrosa.com/lensk.html,Q2067431,32512,
 ULV,UWLL,Баратаевка,Ulyanovsk Baratayevka Airport,Ульяновск,Ulyanovsk,Ульяновская область,RU-ULY,54.27016,48.225569,137,Europe/Ulyanovsk,medium,true,true,Ульяновск (Баратаевка),true,,http://www.ulk.aero/?lng=en,Q1989502,35104,https://flight-delayed.ru/airports/ulv
