@@ -1,6 +1,6 @@
 {
-  "title": "Russian Airports: IATA, ICAO, Terminals, Coordinates",
-  "subtitle": "247 airports of Russia with codes, coordinates, terminals and international status",
+  "title": "Russia Airports: IATA, ICAO, Terminals, Coords",
+  "subtitle": "247 Russian airports: codes, coordinates, terminals, international status",
   "id": "mikhailbulgakov/russia-airports",
   "licenses": [{"name": "CC-BY-4.0"}],
   "keywords": ["aviation", "russia", "geospatial analysis", "transportation"],
